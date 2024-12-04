@@ -9,14 +9,14 @@
         "search"
     ],
     "require": {
-        "silverstripe/framework": "^4@dev",
+        "silverstripe/framework": "^5@dev",
         "silverstripe/vendor-plugin": "^2.0"
     },
     "require-dev": {
         "phpunit/phpunit": "^9.5",
-        "silverstripe/admin": "^1@dev",
-        "silverstripe/cms": "^4@dev",
-        "symbiote/silverstripe-queuedjobs": "^4.1"
+        "silverstripe/admin": "^2@dev",
+        "silverstripe/cms": "^5@dev",
+        "symbiote/silverstripe-queuedjobs": "^5"
     },
     "autoload": {
         "psr-4": {
